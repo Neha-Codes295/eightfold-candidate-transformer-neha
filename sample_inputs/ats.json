@@ -1,0 +1,73 @@
+[
+  {
+    "candidate_name": "Priya Sharma",
+    "contact_email": "priya.sharma@email.com",
+    "phone_number": "9876543210",
+    "employer": "Infosys",
+    "role": "Software Engineer",
+    "start_date": "March 2021",
+    "end_date": "2024-11-30",
+    "location": "Bengaluru",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/priya-sharma",
+    "skills": "Python, Java, AWS, Docker",
+    "experience_years": 4,
+    "summary": "Full-stack engineer with 4 years in enterprise software"
+  },
+  {
+    "candidate_name": "Rahul Verma",
+    "contact_email": "rahul.verma@email.com",
+    "phone_number": "+919876543211",
+    "employer": "TCS",
+    "role": "Senior Developer",
+    "start_date": "Jan 2018",
+    "location": "Mumbai",
+    "country": "IN",
+    "skills": ["Java", "Spring Boot", "Microservices", "Kubernetes"],
+    "experience_years": 7,
+    "bio": "Backend engineer specializing in distributed systems"
+  },
+  {
+    "candidate_name": "Vikram Nair",
+    "contact_email": "vikram.nair@email.com",
+    "phone_number": "8899001122",
+    "employer": "Amazon",
+    "role": "Cloud Architect",
+    "start_date": "06/2015",
+    "location": "Hyderabad",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/vikram-nair",
+    "github_url": "https://github.com/vikramnair",
+    "skills": "AWS, Azure, Terraform, Python, Go",
+    "experience_years": 10,
+    "summary": "Cloud architect with 10+ years designing large-scale distributed systems"
+  },
+  {
+    "candidate_name": "Aisha Khan",
+    "contact_email": "aisha.khan@email.com",
+    "phone_number": "8123456789",
+    "employer": "Wipro",
+    "role": "Data Scientist",
+    "start_date": "2020-07-01",
+    "location": "Pune",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/aisha-khan",
+    "skills": ["Python", "Machine Learning", "TensorFlow", "SQL", "Spark"],
+    "experience_years": 5,
+    "summary": "Data scientist focused on NLP and recommendation systems"
+  },
+  {
+    "candidate_name": "Sneha Patel",
+    "contact_email": "sneha.patel@email.com",
+    "phone_number": "7654321098",
+    "employer": "Flipkart",
+    "role": "Product Manager",
+    "start_date": "2019",
+    "location": "Bengaluru",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/sneha-patel",
+    "skills": ["Product Strategy", "Agile", "SQL", "User Research"],
+    "experience_years": 6,
+    "summary": "Product manager with 6 years scaling consumer e-commerce features"
+  }
+]
