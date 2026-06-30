@@ -1,0 +1,71 @@
+[
+  {
+    "full_name": "Aisha Khan",
+    "primary_email": "aisha.khan@email.com",
+    "phone": "+918123456789",
+    "skills": [
+      "machine learning",
+      "python",
+      "spark",
+      "sql",
+      "tensorflow"
+    ],
+    "overall_confidence": 0.875
+  },
+  {
+    "full_name": "Dev Anand",
+    "primary_email": "dev.anand@email.com",
+    "phone": "+919988776655",
+    "skills": [],
+    "overall_confidence": 1.0
+  },
+  {
+    "full_name": "Priya Sharma",
+    "primary_email": "priya.sharma@email.com",
+    "phone": "+919876543210",
+    "skills": [
+      "aws",
+      "docker",
+      "java",
+      "python"
+    ],
+    "overall_confidence": 0.875
+  },
+  {
+    "full_name": "Rahul Verma",
+    "primary_email": "rahul.verma@email.com",
+    "phone": "+919876543211",
+    "skills": [
+      "java",
+      "kubernetes",
+      "microservices",
+      "spring boot"
+    ],
+    "overall_confidence": 0.875
+  },
+  {
+    "full_name": "Sneha Patel",
+    "primary_email": "sneha.patel@email.com",
+    "phone": "+917654321098",
+    "skills": [
+      "agile",
+      "product strategy",
+      "sql",
+      "user research"
+    ],
+    "overall_confidence": 0.875
+  },
+  {
+    "full_name": "Vikram Nair",
+    "primary_email": "vikram.nair@email.com",
+    "phone": "+918899001122",
+    "skills": [
+      "aws",
+      "azure",
+      "go",
+      "python",
+      "terraform"
+    ],
+    "overall_confidence": 1.0
+  }
+]
